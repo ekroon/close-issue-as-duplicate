@@ -2,6 +2,10 @@
 
 Small script to close an issue as duplicate
 
+## Prerequisites
+
+- [GitHub CLI](https://cli.github.com/) installed and configured
+
 ## How to install
 
 - [Install with UBI](https://github.com/houseabsolute/ubi?tab=readme-ov-file#how-to-use-it )
